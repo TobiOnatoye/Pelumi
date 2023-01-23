@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on any front-end projects.
 - 💬 Ask me anything. Am ready to help💯
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/oluwapelumi-onatoye-56248813b/">My Linkedin</a>
-- 😄 Pronouns: He😅
+- 😄 Pronouns: He, Him & His😅
 - ⚡ Fun fact: Google's name was the fruit of a spelling mistake.(Googol)
 
 ## My Skill Set  
