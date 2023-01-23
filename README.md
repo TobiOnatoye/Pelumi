@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on growing my front-end skills.
 - 🌱 I’m currently learning HTML, CSS, JS, PYTHON and more front-end concepts
 - 👯 I’m looking to collaborate on any front-end projects.
-- 💬 Ask me anything. Am ready to help💯
+- 💬 Ask me anything. I'm ready to help💯
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/oluwapelumi-onatoye-56248813b/">My Linkedin</a>
 - 😄 Pronouns: He, Him & His😅
 - ⚡ Fun fact: Google's name was the fruit of a spelling mistake.(Googol)
