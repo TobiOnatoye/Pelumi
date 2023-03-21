@@ -3,7 +3,7 @@
 
 - 🔭 I’m a product manager, currently working on growing my front-end skills.
 - 🌱 I’m currently learning HTML, CSS, JS, PYTHON and more front-end concepts
-- 👯 I’m looking to collaborate on any front-end projects.
+- 👯 I’m looking to collaborate on any front-end or Software management projects.
 - 💬 Ask me anything. I'm ready to help💯
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/oluwapelumi-onatoye-56248813b/">My Linkedin</a>
 - 😄 Pronouns: He, Him & His😅
