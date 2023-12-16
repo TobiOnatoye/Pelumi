@@ -1,13 +1,24 @@
 ### Hi there 👋 I am...
 ### <a href="https://github.com/onatoyepelumi">TOBILOBA ONATOYE</a>
 
-- 🔭 I’m a product manager, currently working on growing my front-end skills and a bigger picture of software engineering.
+- 🔭 I’m a product manager, currently working on growing my front-end skills and a bigger picture of Software Engineering.
 - 🌱 I’m currently learning HTML, CSS, JS, PYTHON and more front-end concepts
 - 👯 I’m looking to collaborate on any front-end or Software management projects.
 - 💬 Ask me anything. I'm ready to help💯
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/oluwapelumi-tobiloba-onatoye-56248813b/">My Linkedin</a>
 - 😄 Pronouns: He, Him & His😅
 - ⚡ Fun fact: Google's name was the fruit of a spelling mistake.(Googol)
+
+
+- ⬆️ Hi guys, a quick update to my journey so far.
+- 🪪I have added the scrum master certifiaction to my portfolio, soon to add PRINCE2.
+- 👨🏽‍🔬I have also honed my skills in frontend (evidently) and cloud security concepts(Peneration testing)
+- 👨🏾‍💻I am currently honing my skills in DevOps which is directly related to my software engineering journey and my overall goal of being an impeccable Product/Project Manager.
+- 🔖I recently added AI/ML to my career roadmap due to the rising market demand and evolvement of Tech environment.
+
+
+PUBLIC NOTICE: I am open to collaborations (both paid and unpaid) so if you need my help or services, do not hesistate to reach out.
+  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
