@@ -1,5 +1,5 @@
 ### Hi there 👋 I am...
-### <a href="https://github.com/onatoyepelumi">OLUWAPELUMI TOBILOBA ONATOYE (aka TOBI)</a>
+### <a href="https://github.com/onatoyepelumi">OLUWAPELUMI TOBILOBA ONATOYE (aka. TOBI)</a>
 
 - 🔭 I’m a product manager, currently working on growing my front-end skills and a bigger picture of Software Engineering.
 - 🌱 I’m currently learning HTML, CSS, JS, PYTHON and more front-end concepts
