@@ -10,6 +10,9 @@
 - ⚡ Fun fact: Google's name was the fruit of a spelling mistake.(Googol)
 
 
+-UPDATE!
+
+
 - ⬆️ Hi guys, a quick update to my journey so far.
 - 🪪I have added the scrum master certifiaction to my portfolio, soon to add PRINCE2.
 - 👨🏽‍🔬I have also honed my skills in frontend (evidently) and cloud security concepts(Peneration testing)
