@@ -1,7 +1,7 @@
 ### Hi there 👋 I am...
 ### <a href="https://github.com/onatoyepelumi">TOBILOBA ONATOYE</a>
 
-- 🔭 I’m a product manager, currently working on growing my front-end skills.
+- 🔭 I’m a product manager, currently working on growing my front-end skills and a bigger picture of software engineering.
 - 🌱 I’m currently learning HTML, CSS, JS, PYTHON and more front-end concepts
 - 👯 I’m looking to collaborate on any front-end or Software management projects.
 - 💬 Ask me anything. I'm ready to help💯
