@@ -10,7 +10,7 @@
 - ⚡ Fun fact: Google's name was the fruit of a spelling mistake.(Googol)
 
 
--⬆️⬆️⬆️UPDATE!
+⬆️⬆️⬆️UPDATE!
 
 
 - ⬆️ Hi guys, a quick update to my journey so far.
