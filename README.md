@@ -36,8 +36,7 @@ PUBLIC NOTICE: I am open to collaborations (both paid and unpaid) so if you need
 
 ### Product/Project Management 
 <div align="center">  
-  <a href="https://www.atlassian.com/software/jira/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/atlassian-original.svg" alt="Jira" height="50" /></a>  
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://www.atlassian.com/software/jira/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/atlassian-original.svg" alt="atlassian" height="50" /></a>   
 </div>
 
 
