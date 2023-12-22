@@ -28,7 +28,7 @@ PUBLIC NOTICE: I am open to collaborations (both paid and unpaid) so if you need
 
 ### Frontend  
 <div align="center">    
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" 
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="javascript" height="50" /></a>  
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   
 </td><td valign="top" width="33%">
@@ -38,8 +38,8 @@ PUBLIC NOTICE: I am open to collaborations (both paid and unpaid) so if you need
 <div align="center">  
   <a href="https://www.atlassian.com/software/jira/" target="_blank"><img style="margin: 10px" src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=612" alt="atlassian" height="20" /></a>
   <a href="https://www.monday.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Monday_logo.svg" alt="monday" height="30" /></a> 
-  <a href="https://www.trello.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg" alt="Trello" height="30" /></a> 
-</div>
+  <a href="https://www.trello.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg" alt="Trello" height="35" /></a> 
+</td><td valign="top" width="33%">
 
 
 
