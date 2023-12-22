@@ -36,8 +36,9 @@ PUBLIC NOTICE: I am open to collaborations (both paid and unpaid) so if you need
 
 ### Product/Project Management 
 <div align="center">  
-  <a href="https://www.atlassian.com/software/jira/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/atlassian-original.svg" alt="atlassian" height="50" /></a>
-  <a href="https://www.monday.com/" target="_blank"><img style="margin: 10px" src="https://dapulse-res.cloudinary.com/image/upload/f_auto,q_auto/remote_mondaycom_static/img/monday-logo-x2.png" alt="monday" height="50" /></a> 
+  <a href="https://www.atlassian.com/software/jira/" target="_blank"><img style="margin: 10px" src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=612" alt="atlassian" height="20" /></a>
+  <a href="https://www.monday.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Monday_logo.svg" alt="monday" height="30" /></a> 
+  <a href="https://www.trello.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg" alt="Trello" height="30" /></a> 
 </div>
 
 
