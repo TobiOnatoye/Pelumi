@@ -17,7 +17,7 @@
 - 🪪I have added the scrum master certifiaction to my portfolio, soon to add PRINCE2.
 - 👨🏽‍🔬I have also honed my skills in frontend (evidently) and cloud security concepts(Penetration testing)
 - 👨🏾‍💻I am currently honing my skills in DevOps which is directly related to my software engineering journey and my overall goal of being an impeccable Product/Project Manager.
-- 🔖I recently added AI/ML to my career roadmap due to the rising market demand and evolvement of Tech environment.
+- 🔖I recently added AI/ML to my career roadmap due to the rising market demand and evolvement of the Tech environment.
 
 
 PUBLIC NOTICE: I am open to collaborations (both paid and unpaid) so if you need my help or services, do not hesistate to reach out.
