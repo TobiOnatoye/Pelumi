@@ -1,11 +1,11 @@
 ### Hi there 👋 I am...
 ### <a href="https://github.com/onatoyepelumi">OLUWAPELUMI TOBILOBA ONATOYE (aka. TOBI)</a>
 
-- 🔭 I’m a product manager, currently working on growing my front-end skills and a bigger picture of Software Engineering.
-- 🌱 I’m currently learning HTML, CSS, JS, PYTHON and more front-end concepts
-- 👯 I’m looking to collaborate on any front-end or Software management projects.
+- 🔭 I’m a product manager, with skills in Software Engineering.
+- 🌱 My repertoire includes but nit limited to HTML, CSS, JS, PYTHON and more front-end concepts, I also have DevOps & Cloud Infrastructure skills.
+- 👯 I’m looking to collaborate on any front-end, Software management projects or IT projects in general.
 - 💬 Ask me anything. I'm ready to help💯
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/oluwapelumi-tobiloba-onatoye-56248813b/">My Linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/onatoyetobi/">My Linkedin</a>
 - 😄 Pronouns: He, Him & His😅
 - ⚡ Fun fact: Google's name was the fruit of a spelling mistake.(Googol)
 
@@ -16,7 +16,7 @@
 - ⬆️ Hi guys, a quick update to my journey so far.
 - 🪪I have added the scrum master certifiaction to my portfolio, soon to add PRINCE2.
 - 👨🏽‍🔬I have also honed my skills in frontend (evidently) and cloud security concepts(Penetration testing)
-- 👨🏾‍💻I am currently honing my skills in DevOps which is directly related to my software engineering journey and my overall goal of being an impeccable Product/Project Manager.
+- 👨🏾‍💻I am currently honing my skills in DevOps which is directly related to my software engineering journey and my overall goal of being a Product Director.
 - 🔖I recently added AI/ML to my career roadmap due to the rising market demand and evolvement of the Tech environment.
 
 
